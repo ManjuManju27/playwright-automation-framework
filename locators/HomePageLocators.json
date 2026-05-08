@@ -1,0 +1,17 @@
+{
+  "usernameField": "[name='user_id']",
+  "passwordField": "[name='password']",
+  "loginButton": "[type='submit']",
+  "mainmenu":"//button[contains(@class, 'MuiButtonBase')][1]",
+  "Recently_viewed_Field":"//p[text()='Recently viewed']",
+  "settings_button":"[aria-label='Settings']",
+  "Logout_button":"//button[text()='Log-out']",
+  "Recently_viewed_items":"//*[@id='responsive-wrapper']/div/div[1]/div[2]/div",
+  "errorMessage" : "[class='alert alert-danger']",
+    "dashboard" :"button[contains(@class, 'MuiButtonBase')][1]",
+    "signOut":"text=Sign Out",
+    "registerButton ": "text=Register",
+    "changePassword" : "text=Change password",
+    "passworderrorMessage" :"#password-error",
+    "usererrorMessage" :"#email-error"
+}

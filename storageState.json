@@ -1,0 +1,150 @@
+{
+  "cookies": [
+    {
+      "name": "cas.u_param",
+      "value": "u_1762516041300_136501930",
+      "domain": "cas.reddintelligence.com",
+      "path": "/",
+      "expires": 1794052041.336277,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lang",
+      "value": "en",
+      "domain": "cas.reddintelligence.com",
+      "path": "/",
+      "expires": 1794052042.15758,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cas.request_uuid2",
+      "value": "1762516042137%3Ac9937a223fbfbd8eff4276e8bbde889dd8cbd1f9",
+      "domain": "cas.reddintelligence.com",
+      "path": "/",
+      "expires": 1762517842.158018,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "prod.cas.force-login-form",
+      "value": "user",
+      "domain": "cas.reddintelligence.com",
+      "path": "/",
+      "expires": 1794052051.37262,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "prod.cas.sid",
+      "value": "s%3ALcPGzO2JFa6wjZSGNNzhQ_aonwJf9H3B.ZX%2BXM4S8ThBdmQEjLJdlo3zgxZJsWmOsEj2sURGfqJI",
+      "domain": "cas.reddintelligence.com",
+      "path": "/",
+      "expires": 1762519651.372671,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "fs_lua",
+      "value": "1.1762516052809",
+      "domain": ".reddintelligence.com",
+      "path": "/",
+      "expires": 1762517853,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "fs_uid",
+      "value": "#14MMEJ#d607a9fc-5b19-4cb5-8cea-191b0c9877c6:7fc73d92-04c0-4d62-b3e3-63b66cc7fc98:1762516039877::2#/1794052043",
+      "domain": ".reddintelligence.com",
+      "path": "/",
+      "expires": 1794052043,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IjFhNkxPSmxUNzFoY2dzYytSSUR6RkE9PSIsInZhbHVlIjoiclRqdVlrbXB4TkVBazVGdlZZZm51a242eURWcXd3NnZCRjRLbGkxR1JQVFZwQTM4bjF4OVZmb1hsM0dZa3FZb281cGZHbWY5RURXQzlqNnNkVXg3ekVtdkJZTGJFcFAzUWk3NlRtUkdKSDQrL3lWVjR6SkJoNlA3cXpDSVc3OWoiLCJtYWMiOiI3ZjA5NzYxNjc5NGQ5ZmJjYTY2NjE3NmQwMDk0MWY2OWM3MTY1ZTJmNjk5MDRhZjUyNWQ0MThhN2UyZjc3YmQwIiwidGFnIjoiIn0%3D",
+      "domain": "next.reddintelligence.com",
+      "path": "/",
+      "expires": 1762559253.158908,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "emisv2_session",
+      "value": "eyJpdiI6Ikw0M3RMT1lGOEYyRHQ0Z2pqczRta2c9PSIsInZhbHVlIjoibU1UQW8wNTVNa3RkUFlQMm16bytzakRSQUlBU2hiT1oxdVVsbmg4RkhVZHpDQ3pNeVZiazFlTlV1bWpJcHhhYXV4Snk5UndnUUxPYXF3RThma1FJSmJNWHJYcVZ6T2F0L1VRUmRhMGN6cGZMTmM1ZWd0UzBxdHJFM1dYTHppYlUiLCJtYWMiOiI1Y2I1NGM3NjZkYzVhZjk3ZDZjYmEwZGU2NzE2ZWQ5OWZhZmY3YWJhYWM4NzUzMTEwMTU0ZDRiOWRiMjFlMDMyIiwidGFnIjoiIn0%3D",
+      "domain": "next.reddintelligence.com",
+      "path": "/",
+      "expires": 1762559253.159156,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ui_lang",
+      "value": "en",
+      "domain": ".next.reddintelligence.com",
+      "path": "/",
+      "expires": 1794052053,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tr_lang",
+      "value": "en",
+      "domain": ".next.reddintelligence.com",
+      "path": "/",
+      "expires": 1794052053,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://next.reddintelligence.com",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "en"
+        },
+        {
+          "name": "bugsnag-anonymous-id",
+          "value": "cmhosjix50000356iuu1m08v9"
+        },
+        {
+          "name": "_fs_lua",
+          "value": "1.1762516052809"
+        },
+        {
+          "name": "_fs_songs:1",
+          "value": "{\"Bundles\":[[1,{\"type\":\"string\",\"data\":\"{\\\"Seq\\\":1,\\\"When\\\":6,\\\"Evts\\\":[{\\\"Kind\\\":25,\\\"Args\\\":[\\\"https://next.reddintelligence.com/\\\",\\\"<!DOCTYPE html>\\\",\\\"https://next.reddintelligence.com/\\\",\\\"\\\"],\\\"When\\\":6},{\\\"Kind\\\":8198,\\\"Args\\\":[false,1],\\\"When\\\":6},{\\\"Kind\\\":81,\\\"Args\\\":[\\\"https://next.reddintelligence.com/\\\",\\\"navigate\\\"],\\\"When\\\":6},{\\\"Kind\\\":98,\\\"Args\\\":[\\\"default\\\",null,\\\"dom\\\",null,false],\\\"When\\\":6},{\\\"Kind\\\":58,\\\"Args\\\":[14,false],\\\"When\\\":6},{\\\"Kind\\\":20,\\\"Args\\\":[],\\\"When\\\":8},{\\\"Kind\\\":57,\\\"Args\\\":[0,1762516035049,0,0,0,0,1762516035055,1762516035062,1762516035300,1762516035300,1762516035352,1762516035318,1762516035353,1762516036116,1762516036117,1762516036134,1762516036154,1762516039417,1762516039417,1762516039421,1762516039421,1762516039421],\\\"When\\\":17},{\\\"Kind\\\":21,\\\"Args\\\":[],\\\"When\\\":17},{\\\"Kind\\\":111,\\\"Args\\\":[\\\"uid \\\"],\\\"When\\\":495},{\\\"Kind\\\":86,\\\"Args\\\":[\\\"764ba98078e52a67\\\"],\\\"When\\\":497},{\\\"Kind\\\":58,\\\"Args\\\":[4,true],\\\"When\\\":500},{\\\"Kind\\\":58,\\\"Args\\\":[8,true],\\\"When\\\":501},{\\\"Kind\\\":58,\\\"Args\\\":[3,true],\\\"When\\\":502},{\\\"Kind\\\":58,\\\"Args\\\":[13,true],\\\"When\\\":502},{\\\"Kind\\\":58,\\\"Args\\\":[0,true,1,true,2,true,5,true,7,true,10,true,11,true,9,true,12,true],\\\"When\\\":504},{\\\"Kind\\\":57,\\\"Args\\\":[6,2248146944,49484656,36285212],\\\"When\\\":505},{\\\"Kind\\\":57,\\\"Args\\\":[7,1762516035049],\\\"When\\\":505},{\\\"Kind\\\":52,\\\"Args\\\":[],\\\"When\\\":506},{\\\"Kind\\\":66,\\\"Args\\\":[\\\"any-pointer\\\",\\\"fine\\\"],\\\"When\\\":506},{\\\"Kind\\\":66,\\\"Args\\\":[\\\"any-hover\\\",\\\"hover\\\"],\\\"When\\\":506},{\\\"Kind\\\":66,\\\"Args\\\":[\\\"pointer\\\",\\\"fine\\\"],\\\"When\\\":506},{\\\"Kind\\\":66,\\\"Args\\\":[\\\"prefers-color-scheme\\\",\\\"light\\\"],\\\"When\\\":506},{\\\"Kind\\\":89,\\\"Args\\\":[\\\"e64c20b8fc0256fec7ce985abea64499f6b7ed52\\\"],\\\"When\\\":508},{\\\"Kind\\\":19,\\\"Args\\\":[1280,720],\\\"When\\\":508},{\\\"Kind\\\":100,\\\"Args\\\":[\\\"visible\\\"],\\\"When\\\":509},{\\\"Kind\\\":78,\\\"Args\\\":[[0,1,4,511,1]],\\\"When\\\":511},{\\\"Kind\\\":2,\\\"Args\\\":[-1,-1,[\\\"<#document\\\",\\\"[\\\",\\\"<!DOCTYPE\\\",\\\":name\\\",\\\"html\\\",\\\":publicId\\\",\\\"\\\",\\\":systemId\\\",6,\\\"<HTML\\\",\\\":lang\\\",\\\"en\\\",\\\":style\\\",\\\"user-select: none;\\\",1,\\\"<HEAD\\\",1,\\\"<META\\\",\\\":charset\\\",\\\"utf-8\\\",\\\"<LINK\\\",\\\":rel\\\",\\\"icon\\\",\\\":href\\\",\\\"https://next.reddintelligence.com/favicon.ico\\\",17,3,\\\"viewport\\\",\\\":content\\\",\\\"width=device-width,initial-scale=1\\\",[25,2],\\\"theme-color\\\",28,\\\"#000000\\\",[25,2],\\\"description\\\",28,\\\"Web site created using create-react-app\\\",[20,2],\\\"apple-touch-icon\\\",23,\\\"https://next.reddintelligence.com/logo192.png\\\",[20,2],\\\"manifest\\\",23,\\\"https://next.reddintelligence.com/manifest.json\\\",\\\"<TITLE\\\",1,\\\"<#text\\\",\\\"REDD\\\",\\\"]\\\",20,23,\\\"https://next.reddintelligence.com/static/css/main.eff4bef9.css\\\",21,\\\"stylesheet\\\",\\\"<STYLE\\\",\\\":id\\\",\\\"_goober\\\",[51,2],6,54,60,\\\":data-emotion\\\",\\\"css-global\\\",\\\":data-s\\\",6,[63,3],[66,2],68,\\\"css\\\",[70,2],[72,4],60,\\\":data-guards-whitelist\\\",\\\"1\\\",[72,4],54,\\\"<BODY\\\",1,\\\"<NOSCRIPT\\\",\\\":_fs_excluded\\\",\\\"true\\\",\\\"<DIV\\\",61,\\\"root\\\",1,98,\\\":class\\\",\\\"MuiContainer-root MuiContainer-maxWidthXl css-1fopjrz\\\",1,\\\"<HEADER\\\",103,\\\"MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-1p43t8f\\\",\\\":data-testid\\\",\\\"header-appbar\\\",[102,2],\\\"MuiBox-root css-1sf3xto\\\",[101,2],103,\\\"MuiBox-root css-p6748q\\\",1,\\\"<SPAN\\\",103,\\\"MuiCircularProgress-root MuiCircularProgress-indeterminate MuiCircularProgress-colorPrimary css-1fbtei6\\\",\\\":role\\\",\\\"progressbar\\\",12,\\\"width: 40px; height: 40px;\\\",1,\\\"<svg:svg\\\",103,\\\"MuiCircularProgress-svg css-13o7eu2\\\",\\\":viewBox\\\",\\\"22 22 44 44\\\",1,\\\"<svg:circle\\\",103,\\\"MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate css-14891ef\\\",\\\":cx\\\",\\\"44\\\",\\\":cy\\\",137,\\\":r\\\",\\\"20.2\\\",\\\":fill\\\",\\\"none\\\",\\\":stroke-width\\\",\\\"3.6\\\",54,[146,2],[147,3],[147,3]]],\\\"When\\\":511},{\\\"Kind\\\":78,\\\"Args\\\":[[0,1,1,511,8]],\\\"When\\\":511},{\\\"Kind\\\":78,\\\"Args\\\":[[0,1,5,511,10]],\\\"When\\\":511},{\\\"Kind\\\":90,\\\"Args\\\":[[1,15]],\\\"When\\\":511},{\\\"Kind\\\":60,\\\"Args\\\":[[1,15],[\\\".go1475592160 { height: 0px; }\\\",\\\".go1671063245 { height: auto; }\\\",\\\".go1888806478 { display: flex; flex-wrap: wrap; flex-grow: 1; }\\\",\\\"@media (min-width: 600px) {\\\\n  .go1888806478 { flex-grow: initial; min-width: 288px; }\\\\n}\\\",\\\".go167266335 { background-color: rgb(49, 49, 49); font-size: 0.875rem; line-height: 1.43; letter-spacing: 0.01071em; color: rgb(255, 255, 255); align-items: center; padding: 6px 16px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 5px -1px, rgba(0, 0, 0, 0.14) 0px 6px 10px 0px, rgba(0, 0, 0, 0.12) 0px 1px 18px 0px; }\\\",\\\".go3162094071 { padding-left: 20px; }\\\",\\\".go3844575157 { background-color: rgb(49, 49, 49); }\\\",\\\".go1725278324 { background-color: rgb(67, 160, 71); }\\\",\\\".go3651055292 { background-color: rgb(211, 47, 47); }\\\",\\\".go4215275574 { background-color: rgb(255, 152, 0); }\\\",\\\".go1930647212 { background-color: rgb(33, 150, 243); }\\\",\\\".go946087465 { display: flex; align-items: center; padding: 8px 0px; }\\\",\\\".go703367398 { display: flex; align-items: center; margin-left: auto; padding-left: 16px; margin-right: -8px; }\\\",\\\".go3963613292 { width: 100%; position: relative; transform: translateX(0px); inset: 0px; min-width: 288px; }\\\",\\\".go1141946668 { box-sizing: border-box; display: flex; max-height: 100%; position: fixed; z-index: 1400; height: auto; width: auto; transition: top 300ms, right 300ms, bottom 300ms, left 300ms, max-width 300ms; pointer-events: none; max-width: calc(100% - 40px); }\\\",\\\".go1141946668 .notistack-CollapseWrapper { padding: 6px 0px; transition: padding 300ms; }\\\",\\\"@media (max-width: 599.95px) {\\\\n  .go1141946668 { width: 100%; max-width: calc(100% - 32px); }\\\\n}\\\",\\\".go3868796639 .notistack-CollapseWrapper { padding: 2px 0px; }\\\",\\\".go3118922589 { top: 14px; flex-direction: column; }\\\",\\\".go1453831412 { bottom: 14px; flex-direction: column-reverse; }\\\",\\\".go4027089540 { left: 20px; }\\\",\\\"@media (min-width: 600px) {\\\\n  .go4027089540 { align-items: flex-start; }\\\\n}\\\",\\\"@media (max-width: 599.95px) {\\\\n  .go4027089540 { left: 16px; }\\\\n}\\\",\\\".go2989568495 { right: 20px; }\\\",\\\"@media (min-width: 600px) {\\\\n  .go2989568495 { align-items: flex-end; }\\\\n}\\\",\\\"@media (max-width: 599.95px) {\\\\n  .go2989568495 { right: 16px; }\\\\n}\\\",\\\".go4034260886 { left: 50%; transform: translateX(-50%); }\\\",\\\"@media (min-width: 600px) {\\\\n  .go4034260886 { align-items: center; }\\\\n}\\\"],0],\\\"When\\\":511},{\\\"Kind\\\":90,\\\"Args\\\":[[1,17]],\\\"When\\\":511},{\\\"Kind\\\":60,\\\"Args\\\":[[1,17],[\\\"html { -webkit-font-smoothing: antialiased; box-sizing: border-box; text-size-adjust: 100%; }\\\",\\\"*, ::before, ::after { box-sizing: inherit; }\\\",\\\"strong, b { font-weight: 700; }\\\",\\\"body { margin: 0px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 1rem; line-height: 1.5; letter-spacing: 0.00938em; background-color: rgb(255, 255, 255); }\\\",\\\"@media print {\\\\n  body { background-color: rgb(255, 255, 255); }\\\\n}\\\",\\\"body::backdrop { background-color: rgb(255, 255, 255); }\\\"],0],\\\"When\\\":511},{\\\"Kind\\\":90,\\\"Args\\\":[[1,19]],\\\"When\\\":511},{\\\"Kind\\\":60,\\\"Args\\\":[[1,19],[\\\".css-1fopjrz { width: 100%; margin-left: auto; box-sizing: border-box; margin-right: auto; display: block; padding: 0px; background: rgb(248, 248, 248); }\\\",\\\"@media (min-width: 600px) {\\\\n  .css-1fopjrz { padding-left: 24px; padding-right: 24px; }\\\\n}\\\",\\\"@media (min-width: 1536px) {\\\\n  .css-1fopjrz { max-width: 1536px; }\\\\n}\\\",\\\".css-mqcc9v { display: flex; flex-direction: column; width: 100%; box-sizing: border-box; flex-shrink: 0; position: static; color: rgb(255, 255, 255); background-color: rgb(14, 161, 212); }\\\",\\\".css-1p43t8f { transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1); box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px -1px, rgba(0, 0, 0, 0.14) 0px 4px 5px 0px, rgba(0, 0, 0, 0.12) 0px 1px 10px 0px; display: flex; flex-direction: column; width: 100%; box-sizing: border-box; flex-shrink: 0; position: static; color: rgb(255, 255, 255); background-color: rgb(14, 161, 212); }\\\",\\\".css-1sf3xto { padding-top: 16px; padding-bottom: 16px; }\\\",\\\".css-p6748q { display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; height: 300px; }\\\",\\\".css-1fbtei6 { display: inline-block; color: rgb(172, 32, 36); animation: 1.4s linear 0s infinite normal none running animation-61bdi0; }\\\",\\\"@-webkit-keyframes animation-61bdi0 { \\\\n  0% { transform: rotate(0deg); }\\\\n  100% { transform: rotate(360deg); }\\\\n}\\\",\\\"@keyframes animation-61bdi0 { \\\\n  0% { transform: rotate(0deg); }\\\\n  100% { transform: rotate(360deg); }\\\\n}\\\",\\\".css-13o7eu2 { display: block; }\\\",\\\".css-14891ef { stroke: currentcolor; stroke-dasharray: 80px, 200px; stroke-dashoffset: 0; animation: 1.4s ease-in-out 0s infinite normal none running animation-1p2h4ri; }\\\",\\\"@-webkit-keyframes animation-1p2h4ri { \\\\n  0% { stroke-dasharray: 1px, 200px; stroke-dashoffset: 0; }\\\\n  50% { stroke-dasharray: 100px, 200px; stroke-dashoffset: -15px; }\\\\n  100% { stroke-dasharray: 100px, 200px; stroke-dashoffset: -125px; }\\\\n}\\\",\\\"@keyframes animation-1p2h4ri { \\\\n  0% { stroke-dasharray: 1px, 200px; stroke-dashoffset: 0; }\\\\n  50% { stroke-dasharray: 100px, 200px; stroke-dashoffset: -15px; }\\\\n  100% { stroke-dasharray: 100px, 200px; stroke-dashoffset: -125px; }\\\\n}\\\"],0],\\\"When\\\":511},{\\\"Kind\\\":90,\\\"Args\\\":[[1,21]],\\\"When\\\":511},{\\\"Kind\\\":60,\\\"Args\\\":[[1,21],[\\\"[data-allow-paste], [data-allow-paste] * { user-select: text !important; }\\\"],0],\\\"When\\\":511},{\\\"Kind\\\":57,\\\"Args\\\":[1,\\\"https://next.reddintelligence.com/\\\",0,4372,\\\"navigation\\\",0,0,5.800000011920929,13.400000035762787,251.30000001192093,251.30000001192093,302.9000000357628,269.2000000476837,303.60000002384186,1066.5,1067.9000000357628,0,0,1104.9000000357628,4367.5,4367.800000011921,4371.5,4371.800000011921,4372,\\\"navigate\\\",0,639,374,674,0],\\\"When\\\":527},{\\\"Kind\\\":57,\\\"Args\\\":[14,\\\"long-animation-frame\\\",1078.7000000476837,300.0999999642372,1376.1000000238419,1376.2000000476837,0,0],\\\"When\\\":527},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://next.reddintelligence.com/static/js/main.9e5c8daf.js\\\",1092.1000000238419,2055.100000023842,\\\"script\\\",0,0,1092.1000000238419,1092.1000000238419,1092.1000000238419,1092.1000000238419,1092.1000000238419,1092.1000000238419,1095.1000000238419,1990.4000000357628,3147.2000000476837,7107511,1862610,1862910],\\\"When\\\":527},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://fs-obfuscated.invalid?url-id=0\\\",1093,280.10000002384186,\\\"link\\\",0,0,1093,1093,1093,1093,1093,1093,1095.300000011921,1372.300000011921,1373.1000000238419,1096,615,915],\\\"When\\\":527},{\\\"Kind\\\":57,\\\"Args\\\":[15,\\\"script\\\",3193.7000000476837,1173,\\\"classic-script\\\",\\\"https://next.reddintelligence.com/static/js/main.9e5c8daf.js\\\",3194.100000023842,\\\"https://next.reddintelligence.com/static/js/main.9e5c8daf.js\\\",\\\"\\\",0,0,0,\\\"self\\\"],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[14,\\\"long-animation-frame\\\",3193.2000000476837,1176.5,4369.5,4369.600000023842,1126.32,0],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://sessions.bugsnag.com/\\\",4367,495.7000000476837,\\\"xmlhttprequest\\\",0,0,4367,0,0,0,0,0,0,0,4862.700000047684,0,0,0],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[15,\\\"script\\\",4373.300000011921,45,\\\"event-listener\\\",\\\"MessagePort.onmessage\\\",4373.300000011921,\\\"https://next.reddintelligence.com/static/js/main.9e5c8daf.js\\\",\\\"T\\\",3156544,0,0,\\\"self\\\"],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[14,\\\"long-animation-frame\\\",4373,67.60000002384186,4434.800000011921,4435.100000023842,1.283,0],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://edge.fullstory.com/s/fs.js\\\",4388.400000035763,323.0999999642372,\\\"script\\\",0,0,4388.400000035763,0,0,0,0,0,0,0,4711.5,0,0,0],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://next.reddintelligence.com/app/user?timezone=Asia%2FCalcutta\\\",4479.300000011921,385.5,\\\"xmlhttprequest\\\",0,0,4479.300000011921,4480.5,4480.5,4480.5,4509.900000035763,4492.400000035763,4510.5,4863.200000047684,4864.800000011921,30,30,330],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://fs-obfuscated.invalid?url-id=1\\\",4480.200000047684,263.0999999642372,\\\"other\\\",0,0,4480.200000047684,4480.200000047684,4480.200000047684,4480.200000047684,4480.200000047684,4480.200000047684,4510.800000011921,4742,4743.300000011921,15406,15406,15706],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[3,\\\"first-paint\\\",4496,0],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[3,\\\"first-contentful-paint\\\",4496,0],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[15,\\\"script\\\",4721.5,67,\\\"classic-script\\\",\\\"https://edge.fullstory.com/s/fs.js\\\",4721.5,\\\"https://edge.fullstory.com/s/fs.js\\\",\\\"\\\",0,0,0,\\\"self\\\"],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[14,\\\"long-animation-frame\\\",4711.300000011921,79.19999998807907,4789.400000035763,4790.200000047684,18.511,0],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://edge.fullstory.com/s/settings/14MMEJ/v1/web\\\",4783.800000011921,16.69999998807907,\\\"xmlhttprequest\\\",0,0,4783.800000011921,0,0,0,0,0,0,0,4800.5,0,0,0],\\\"When\\\":528},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://rs.fullstory.com/rec/page\\\",4830.700000047684,433.39999997615814,\\\"xmlhttprequest\\\",0,0,4830.700000047684,0,0,0,0,0,0,0,5264.100000023842,0,0,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[11,\\\"self\\\",3193.2000000476837,1176],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[11,\\\"self\\\",4721.400000035763,67],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[1,\\\"https://next.reddintelligence.com/\\\",0,4372,\\\"navigation\\\",0,0,5.800000011920929,13.400000035762787,251.30000001192093,251.30000001192093,302.9000000357628,269.2000000476837,303.60000002384186,1066.5,1067.9000000357628,0,0,1104.9000000357628,4367.5,4367.800000011921,4371.5,4371.800000011921,4372,\\\"navigate\\\",0,639,374,674,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[3,\\\"first-paint\\\",4496,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[3,\\\"first-contentful-paint\\\",4496,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://next.reddintelligence.com/static/js/main.9e5c8daf.js\\\",1092.1000000238419,2055.100000023842,\\\"script\\\",0,0,1092.1000000238419,1092.1000000238419,1092.1000000238419,1092.1000000238419,1092.1000000238419,1092.1000000238419,1095.1000000238419,1990.4000000357628,3147.2000000476837,7107511,1862610,1862910],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://fs-obfuscated.invalid?url-id=0\\\",1093,280.10000002384186,\\\"link\\\",0,0,1093,1093,1093,1093,1093,1093,1095.300000011921,1372.300000011921,1373.1000000238419,1096,615,915],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://sessions.bugsnag.com/\\\",4367,495.7000000476837,\\\"xmlhttprequest\\\",0,0,4367,0,0,0,0,0,0,0,4862.700000047684,0,0,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://edge.fullstory.com/s/fs.js\\\",4388.400000035763,323.0999999642372,\\\"script\\\",0,0,4388.400000035763,0,0,0,0,0,0,0,4711.5,0,0,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://next.reddintelligence.com/app/user?timezone=Asia%2FCalcutta\\\",4479.300000011921,385.5,\\\"xmlhttprequest\\\",0,0,4479.300000011921,4480.5,4480.5,4480.5,4509.900000035763,4492.400000035763,4510.5,4863.200000047684,4864.800000011921,30,30,330],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://fs-obfuscated.invalid?url-id=1\\\",4480.200000047684,263.0999999642372,\\\"other\\\",0,0,4480.200000047684,4480.200000047684,4480.200000047684,4480.200000047684,4480.200000047684,4480.200000047684,4510.800000011921,4742,4743.300000011921,15406,15406,15706],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://edge.fullstory.com/s/settings/14MMEJ/v1/web\\\",4783.800000011921,16.69999998807907,\\\"xmlhttprequest\\\",0,0,4783.800000011921,0,0,0,0,0,0,0,4800.5,0,0,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[2,\\\"https://rs.fullstory.com/rec/page\\\",4830.700000047684,433.39999997615814,\\\"xmlhttprequest\\\",0,0,4830.700000047684,0,0,0,0,0,0,0,5264.100000023842,0,0,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[14,\\\"long-animation-frame\\\",1078.7000000476837,300.0999999642372,1376.1000000238419,1376.2000000476837,0,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[15,\\\"script\\\",3193.7000000476837,1173,\\\"classic-script\\\",\\\"https://next.reddintelligence.com/static/js/main.9e5c8daf.js\\\",3194.100000023842,\\\"https://next.reddintelligence.com/static/js/main.9e5c8daf.js\\\",\\\"\\\",0,0,0,\\\"self\\\"],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[14,\\\"long-animation-frame\\\",3193.2000000476837,1176.5,4369.5,4369.600000023842,1126.32,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[15,\\\"script\\\",4373.300000011921,45,\\\"event-listener\\\",\\\"MessagePort.onmessage\\\",4373.300000011921,\\\"https://next.reddintelligence.com/static/js/main.9e5c8daf.js\\\",\\\"T\\\",3156544,0,0,\\\"self\\\"],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[14,\\\"long-animation-frame\\\",4373,67.60000002384186,4434.800000011921,4435.100000023842,1.283,0],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[15,\\\"script\\\",4721.5,67,\\\"classic-script\\\",\\\"https://edge.fullstory.com/s/fs.js\\\",4721.5,\\\"https://edge.fullstory.com/s/fs.js\\\",\\\"\\\",0,0,0,\\\"self\\\"],\\\"When\\\":529},{\\\"Kind\\\":57,\\\"Args\\\":[14,\\\"long-animation-frame\\\",4711.300000011921,79.19999998807907,4789.400000035763,4790.200000047684,18.511,0],\\\"When\\\":529},{\\\"Kind\\\":42,\\\"Args\\\":[1280,720],\\\"When\\\":551},{\\\"Kind\\\":10,\\\"Args\\\":[3,0,0],\\\"When\\\":551},{\\\"Kind\\\":64,\\\"Args\\\":[3,0,0],\\\"When\\\":551},{\\\"Kind\\\":19,\\\"Args\\\":[1280,720],\\\"When\\\":552},{\\\"Kind\\\":40,\\\"Args\\\":[1280,720],\\\"When\\\":552},{\\\"Kind\\\":80,\\\"Args\\\":[3,\\\"CSS1Compat\\\"],\\\"When\\\":553},{\\\"Kind\\\":87,\\\"Args\\\":[[\\\"https://next.reddintelligence.com/favicon.ico\\\",1],[\\\"https://next.reddintelligence.com/logo192.png\\\",2],[\\\"https://next.reddintelligence.com/manifest.json\\\",3],[\\\"https://next.reddintelligence.com/static/css/main.eff4bef9.css\\\",0]],\\\"When\\\":1031},{\\\"Kind\\\":23,\\\"Args\\\":[7],\\\"When\\\":2342},{\\\"When\\\":2342,\\\"Kind\\\":78,\\\"Args\\\":[[0,1,3,2342,1]]},{\\\"When\\\":2342,\\\"Kind\\\":99,\\\"Args\\\":[\\\"https://next.reddintelligence.com/\\\",\\\"https://next.reddintelligence.com/\\\",1280,720,1280,720,\\\"1.1.1\\\",\\\"\\\",\\\"<!DOCTYPE html>\\\",4778,\\\"\\\",1762516040322,\\\"en-US\\\",\\\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\\\",\\\"ee7b6aed2141a8\\\",true,false,null,\\\"\\\",1762179808,\\\"e64c20b8fc0256fec7ce985abea64499f6b7ed52\\\",\\\"\\\",\\\"\\\"]}]}\"},16800]],\"IsNewSession\":true,\"LastBundleTime\":1762516042172,\"OrgId\":\"14MMEJ\",\"PageId\":\"3746501c-84a4-49fe-87eb-b7917ca89355\",\"PageStartTime\":1762516039827,\"RecHost\":\"rs.fullstory.com\",\"ServerBundleTime\":0,\"ServerPageStart\":1762516040322,\"SessionId\":\"7fc73d92-04c0-4d62-b3e3-63b66cc7fc98\",\"UserId\":\"d607a9fc-5b19-4cb5-8cea-191b0c9877c6\",\"Version\":\"v2\"}"
+        },
+        {
+          "name": "_fs_uid",
+          "value": "#14MMEJ#d607a9fc-5b19-4cb5-8cea-191b0c9877c6:7fc73d92-04c0-4d62-b3e3-63b66cc7fc98:1762516039877::2#/1794052043"
+        }
+      ]
+    },
+    {
+      "origin": "https://cas.reddintelligence.com",
+      "localStorage": [
+        {
+          "name": "_cas_lic",
+          "value": "74e89ae519306ad780788dfd94d2d8dab92fbfc53e27421d62faad716cda3948"
+        }
+      ]
+    }
+  ]
+}

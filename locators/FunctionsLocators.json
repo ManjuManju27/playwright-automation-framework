@@ -1,0 +1,16 @@
+{
+    "searchInput": "//input[@class='search-input-text']",
+    "seriesCheckbox": "(//*[@class='series-list-item--checkbox svg-checkbox'])[1]",
+    "seriesName": "(//*[@class='series-item--name'])[1]",
+    "addToDataSelectionIcon": "(//*[@class='add-to-data-selection--icon'])[1]",
+    "insightTitle": "[js-insight-title]",
+    "dataSelectionCheckbox": "(//*[@class='table-container--checkbox svg-checkbox input-control__grey'])[1]",
+    "functionEditorIcon": "//*[@class='function-editor-window--icon']",
+    "functionSearchBox": "//*[contains(@class,'index-module_input')]//*",
+    "functionOption": "//div[@title='FUNCTION_OPTION']",
+    "searchArea": "//*[@class='index-module_search__zanDE']",
+    "cleanButton": "//*[@class='sc-blHHSb hvrPqn sc-gtLWhw dHERWU index-module_button_clean__NVlYc']",
+    "insertFunction": "text=Insert function",
+    "replaceSelectedCheckbox" : "(//*[text()='Replace selected series']//preceding-sibling::*//span//*[1])[1]",
+    "checkbox" : "//*[text()='Replace selected series']//preceding-sibling::*"
+  }

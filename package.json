@@ -1,0 +1,29 @@
+{
+  "name": "CDMNext_Playwright_JS_Cucumber",
+  "version": "1.0.0",
+  "description": "Playwright + Cucumber Framework",
+  "main": "index.js",
+  "scripts": {
+    "test:staging": "cross-env TEST_ENV=staging node runner.js",
+    "test:prod": "cross-env TEST_ENV=prod node runner.js"
+  },
+  "dependencies": {
+    "@applitools/eyes-playwright": "^1.47.0",
+    "axios": "^1.6.0",
+    "chai": "^4.3.10",
+    "cucumber-html-reporter": "^5.5.0",
+    "fs-extra": "^11.3.4",
+    "playwright": "^1.56.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.8.2",
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^24.10.0",
+    "allure-commandline": "^2.38.1",
+    "allure-cucumberjs": "^3.7.1",
+    "cross-env": "^10.1.0",
+    "cucumberjs-junitxml": "^1.0.0",
+    "multiple-cucumber-html-reporter": "^3.10.0"
+  }
+}

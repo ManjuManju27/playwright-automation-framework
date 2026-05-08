@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8656","TC_function_475:Verifying Double Functions - DisAggregate - Replicate.Currency Conversion","","2026-04-29","broken","2026-04-29","","","",""
+"","9052","TC_function_139:Verifying Currency Conversion for 'Turkish Lira (TRY)'","","2026-04-29","broken","2026-04-29","","","",""
+"","8088","TC_function_140:Verifing Currency Conversion for 'New Taiwan Dollar'(TWD)","","2026-04-29","broken","2026-04-29","","","",""
+"","7816","TC_function_149:Verifying Currency Conversion for  'Bulgarian Lev' (BGN)","","2026-04-29","broken","2026-04-29","","","",""

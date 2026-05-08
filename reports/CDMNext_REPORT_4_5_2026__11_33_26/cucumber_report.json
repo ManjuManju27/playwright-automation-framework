@@ -1,0 +1,177 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "function-module;tc_function_136:verifying-currency-conversion-for-'swedish-krona-(sek)'",
+        "keyword": "Scenario",
+        "line": 1003,
+        "name": "TC_function_136:Verifying Currency Conversion for 'Swedish Krona (SEK)'",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "failed",
+              "duration": 146610700,
+              "error_message": "TypeError: Cannot read properties of undefined (reading 'name')\n    at World.<anonymous> (C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\setup\\hooks.js:95:52)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 1004,
+            "name": "Create insight and add series \"310918201\" >open function popup",
+            "match": {
+              "location": "step-definitions\\Function.js:13"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 1005,
+            "name": "Apply function-\"CONVERTCUR\",\"CONVERTCUR (currency, unit)\" >\"US Dollars\",\"in Thousands\"",
+            "match": {
+              "location": "step-definitions\\Function.js:130"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 1006,
+            "name": "Uncheck Replace selected series",
+            "match": {
+              "location": "step-definitions\\Function.js:363"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 1007,
+            "name": "Click on apply function",
+            "match": {
+              "location": "step-definitions\\Function.js:381"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 1008,
+            "name": "Applyin time frame from \"2000-01-01\"  to \"2015-12-31\"",
+            "match": {
+              "location": "step-definitions\\Function.js:403"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "Region"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Frequency"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Unit"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Source"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Status"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Series ID"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Function Description"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "And ",
+            "line": 1009,
+            "name": "Select below attribute",
+            "match": {
+              "location": "step-definitions\\Function.js:439"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 1017,
+            "name": "Verify download excel file with \"Functions136\" testdata file",
+            "match": {
+              "location": "step-definitions\\Function.js:458"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 13659600
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1002
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "function-module",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Function Module",
+    "tags": [],
+    "uri": "features\\Functions.feature"
+  }
+]

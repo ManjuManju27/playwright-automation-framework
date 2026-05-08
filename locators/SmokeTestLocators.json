@@ -1,0 +1,8 @@
+{
+   "Help": "(//div[@class='dropdown--button'])[1]/div",
+   "ImportButton": "//button[text()='Import']",
+   "ImportPopup": "//div[contains(@class,'movable-modal')]",
+   "ResetButton": "//*[text()='Reset']",
+   "RangeButton": "//*[text()='Range']",
+   "DataRefreshButton": "//*[text()='Data refresh']"
+}

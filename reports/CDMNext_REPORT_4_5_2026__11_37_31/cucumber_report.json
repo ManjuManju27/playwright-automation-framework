@@ -1,0 +1,177 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "function-module;tc_function_136:verifying-currency-conversion-for-'swedish-krona-(sek)'",
+        "keyword": "Scenario",
+        "line": 1003,
+        "name": "TC_function_136:Verifying Currency Conversion for 'Swedish Krona (SEK)'",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "failed",
+              "duration": 1300249099,
+              "error_message": "MissingApiKeyError: Please provide an API key to authenticate with Eyes. For more details about obtaining API key, see https://applitools.com/docs/Default.html#cshid=api\n    at Object.afterResponse (C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\node_modules\\@applitools\\core-base\\dist\\server\\req-eyes.js:146:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\node_modules\\@applitools\\req\\dist\\index.cjs:28839:20\n    at async singleReq (C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\node_modules\\@applitools\\req\\dist\\index.cjs:28752:20)\n    at async req (C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\node_modules\\@applitools\\req\\dist\\index.cjs:28575:12)\n    at async getAccountInfo (C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\node_modules\\@applitools\\core-base\\dist\\server\\requests.js:403:26)\n    at async Object.getAccountInfo (C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\node_modules\\@applitools\\core-base\\dist\\get-account-info.js:34:25)\n    at async openEyes (C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\node_modules\\@applitools\\core\\dist\\open-eyes.js:107:25)\n    at async C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\node_modules\\@applitools\\core\\dist\\make-manager.js:69:30\n    at async ClassicRunner.openEyes (C:\\Users\\ManjunathKrishnamurt\\Documents\\CDMNext JavaScript Project\\CDMNext_Playwright_JS_Cucumber\\node_modules\\@applitools\\eyes\\dist\\Runners.js:65:16)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 1004,
+            "name": "Create insight and add series \"310918201\" >open function popup",
+            "match": {
+              "location": "step-definitions\\Function.js:13"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 1005,
+            "name": "Apply function-\"CONVERTCUR\",\"CONVERTCUR (currency, unit)\" >\"US Dollars\",\"in Thousands\"",
+            "match": {
+              "location": "step-definitions\\Function.js:130"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 1006,
+            "name": "Uncheck Replace selected series",
+            "match": {
+              "location": "step-definitions\\Function.js:363"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 1007,
+            "name": "Click on apply function",
+            "match": {
+              "location": "step-definitions\\Function.js:381"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 1008,
+            "name": "Applyin time frame from \"2000-01-01\"  to \"2015-12-31\"",
+            "match": {
+              "location": "step-definitions\\Function.js:403"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "Region"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Frequency"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Unit"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Source"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Status"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Series ID"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Function Description"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "And ",
+            "line": 1009,
+            "name": "Select below attribute",
+            "match": {
+              "location": "step-definitions\\Function.js:439"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 1017,
+            "name": "Verify download excel file with \"Functions136\" testdata file",
+            "match": {
+              "location": "step-definitions\\Function.js:458"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 15329599
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1002
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "function-module",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Function Module",
+    "tags": [],
+    "uri": "features\\Functions.feature"
+  }
+]
