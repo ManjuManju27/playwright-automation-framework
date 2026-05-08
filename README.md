@@ -1,11 +1,6 @@
 # Playwright_JS_BDD
 Automation Testing | Web | Playwright | Javascript | VS Code | BDD | Cucumber | Page Object Model | Chai | Cucumber-HTML-Reporter | Features | Step Definitions | Scenario Outline | Examples
 
-------------------------------------------------------------------------------------------------------------------------
-# Learnings from Course : [Summary_UDEMY_KO_Automated Software Testing with Playwright.pdf](https://github.com/rajatt95/Playwright_JS_BDD/files/8687166/Summary_UDEMY_KO_Automated.Software.Testing.with.Playwright.pdf)
-
-------------------------------------------------------------------------------------------------------------------------
-
 # Playwright Automation Framework
 
 ## Project Overview
